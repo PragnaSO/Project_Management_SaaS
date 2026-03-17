@@ -1,0 +1,11 @@
+:root {
+  color-scheme: light;
+}
+
+a {
+  color: inherit;
+}
+
+body {
+  min-width: 320px;
+}
